@@ -56,16 +56,16 @@
                     <ul class="soial-icons">
 
                         <li>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="https://www.twitter.com/?hl=tr"><i class="fa fa-twitter"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="https://www.linkedin.com/?hl=tr"><i class="fa fa-linkedin"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="https://www.instagram.com/?hl=tr"><i class="fa fa-instagram"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://www.github.com/?hl=tr"><i class="fa fa-github"></i></a>
                         </li>
                     </ul>
                 </div>
@@ -126,9 +126,8 @@
                         <div class="first-service-icon service-icon"></div>
                         <h4>HTML5 &amp; CSS3</h4>
                         <p>
-                            Phasellus non convallis dolor. Integer tempor hendrerit arcu
-                            at bibendum. Sed ac ante non metus vehicula congue quis eget
-                            eros.
+                            HTML 5 kullanarak bir web sitesi yapabilme kapasitesine sahibim. Hem front tarafında hem de
+                            basckend tarafında rahatlıkla kullanabilir, dinamik bir sayfa yapısı çıkarabilirim.
                         </p>
                     </div>
                 </div>
@@ -137,9 +136,8 @@
                         <div class="second-service-icon service-icon"></div>
                         <h4>Php Laravel</h4>
                         <p>
-                            Proin lacus massa, eleifend sed fermentum in, dignissim vel
-                            metus. Nunc accumsan leo nec felis porttitor, ultricies
-                            faucibus purus mollis.
+                            Php Laravel ile web tabanlı projeler geliştirebilirim. Laravel 7,8,9 kullanarak çeşitli kategorilerde web projesi
+                            hazırlayabilir, dinamik bir şekilde sayfa akışını sağlayabilirim.
                         </p>
                     </div>
                 </div>
@@ -148,9 +146,7 @@
                         <div class="fourth-service-icon service-icon"></div>
                         <h4>Admin Dashboard</h4>
                         <p>
-                            Vivamus et dui a massa venenatis fringilla. Proin lacus massa,
-                            eleifend sed fermentum in, dignissim vel metus. Nunc accumsan
-                            leo nec felis porttitor.
+                            Bir sayfanın admin tarafını html ve laravel ile hazırlayabilir, içerik girişlerini de konumlandırabilirim.
                         </p>
                     </div>
                 </div>
@@ -163,11 +159,7 @@
             <div class="section-heading">
                 <h2>Çalışmalarım</h2>
                 <div class="line-dec"></div>
-                <span
-                >Aenean sollicitudin ex mauris, lobortis lobortis diam euismod sit
-              amet. Duis ac elit vulputate, lobortis arcu quis, vehicula
-              mauris.</span
-                >
+                <span>Web tabanlı geliştirdiğim bazı projeler aşağıda belirtilmiştir.</span>
             </div>
             <div class="row">
                 <div class="isotope-wrapper">
@@ -323,9 +315,7 @@
                 <h2>İletişim</h2>
                 <div class="line-dec"></div>
                 <span
-                >Fusce eget nibh nec justo interdum condimentum. Morbi justo ex,
-              efficitur at ante ac, tincidunt maximus ligula. Lorem ipsum dolor
-              sit amet, consectetur adipiscing elit.</span
+                >Aşağıdaki formu kısa bir vaktinizi ayırarak doldurursanız sizinle iletişim halinde olabiliriz.</span
                 >
             </div>
             <div class="row">
